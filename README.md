@@ -64,12 +64,12 @@ Open a terminal and run:
 sudo apt update
 sudo apt install build-essential
 gcc --version
-
+```
 ### macOS 
 ```bash
 xcode-select --install
 gcc --version
-
+```
 - Basic understanding of programming concepts (helpful but not required)
 
 ### Running Your First Program
